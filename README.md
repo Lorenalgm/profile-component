@@ -1,4 +1,4 @@
 # profile-component
 A profile component made with css and html! :)
 
-![](https://i.ibb.co/9pjsJL2/profile.gif)
+<img src="https://i.ibb.co/Pr8wRn4/profile.gif" alt="profile" />
